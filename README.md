@@ -1,13 +1,4 @@
 # agile-final-project
----
-name: User Stories
-about: This is an understanding of user stories.
-title: ''
-labels: ''
-assignees: ''
-
----
-
 **As a** [role]  
  **I need** [function]  
  **So that** [benefit]  
